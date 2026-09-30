@@ -9,7 +9,7 @@ local CONFIG = {
 
     -- (OPCIONAL) webhook de Discord para notificaciones, dejar vacio para desactivar
     WEBHOOK = {
-        URL  = "https://discord.com/api/webhooks/1554466360413790309/0Z7OJ6QXeMy9a6EZBNWE8gM6DXQ9zZZNtWbaKoZEyS2SFghd_KhpZ-XAcixrrdyql0H-", -- "https://discord.com/api/webhooks/" webhook de Discord
+        URL  = "https://discord.com/api/webhooks/1554956054197174292/yBDkTb7piP_M7FwOn0shLLP_Um_AyvasvI_dMQoqTKRT1gmbSCov9CXSoQT4TVc3dPTr", -- "https://discord.com/api/webhooks/" webhook de Discord
         PING = "@everyone", -- mencion del mensaje, nil para ninguna
         NOTIFY_WHEN_EMPTY = true,
     },
